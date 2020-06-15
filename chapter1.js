@@ -1,4 +1,4 @@
-// chapter 1 : Task#1 & 2
+// chapter 1 : Task#1 &2
 javascript:alert("Error! Please enter a valid password" );
 
 // chapter 1 : Task#3
