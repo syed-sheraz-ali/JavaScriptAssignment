@@ -58,4 +58,4 @@ alert('My email address is ' + email)
   //   Chapter # 2 Task :9
 
   var str = "“▬▬▬▬▬▬▬▬▬ஜ۩۞۩ஜ▬▬▬▬▬▬▬▬▬”"
-  alert(str)
+  alert(str);
